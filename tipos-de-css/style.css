@@ -1,0 +1,21 @@
+.card{
+		width:500px; 
+		height: fit-content; 
+		background-color: aliceblue; 
+		border-radius: 25px; 
+		border: solid 2px darkblue; 
+		margin: 20px;
+		padding: 25px;
+	}
+
+	.text{
+		font-size: 30px;
+	}
+
+	.title{
+		font-family: monospace;
+	}
+
+	.main-color{
+		color: darkblue;
+	}
