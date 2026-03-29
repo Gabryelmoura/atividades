@@ -1,0 +1,30 @@
+.container {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: green;
+      color: yellow;
+    }
+
+    .cabecalho {
+      background-color: #ff3c00;
+      text-align: center;
+    }
+
+    .titulo {
+      font-size: 32px;
+      font-weight: bold;
+      color: rgb(69, 235, 69);
+    }
+
+    .subtitulo {
+      color: white;
+    }
+
+    .conteudo {
+      background-color: #2a9da5;
+      color: red;
+    }
+
+    .conteudo h1 {
+      color: purple;
+    }
